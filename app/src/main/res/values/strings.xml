@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nothing</string>
+    <string name="title_activity_connecting">ConnectingActivity</string>
+    <string name="default_web_client_id" translatable="false">Add your default_web_client_id</string>
+</resources>
